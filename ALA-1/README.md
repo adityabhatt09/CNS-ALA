@@ -1,1 +1,1 @@
-https://aditya-encryption-decryption-techniqe.netlify.app/
+https://aditya-cns-ala1.netlify.app/
