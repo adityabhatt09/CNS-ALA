@@ -1,1 +1,1 @@
-https://cns-ala-2-aditya.netlify.app
+https://aditya-cns-ala-2.netlify.app
